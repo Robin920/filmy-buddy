@@ -1,0 +1,33 @@
+.search-box{
+    display: flex;
+    flex-direction: row;
+    width: 50vw;
+    height: 40px;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 10px;
+    margin-top: 70px;
+    background: #5A20CB;
+    color: #fff;
+    padding: 1.5rem 2rem;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.search-box img{
+    height: 35px;
+    width: 35px;
+}
+
+.search-box input{
+    background-color: transparent;
+    border: none;
+    color: #fff;
+    width: 100vw;
+}
+.search-box input:focus{
+    outline: none;
+}
+::placeholder { /* Most modern browsers support this now. */
+    color:    rgb(245, 223, 249);
+ }

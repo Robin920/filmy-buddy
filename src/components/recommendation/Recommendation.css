@@ -1,0 +1,20 @@
+.recomm{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    align-items: center;
+    margin-top: 44px;
+    gap: 23px;
+    padding: 0 8%;
+}
+.recomm h2{
+    color: #5A20CB;
+    font-weight: 500;
+    font-size: 2rem;
+    align-self: flex-start;
+}
+.cards-cont{
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto;
+    gap: 44px;
+}
