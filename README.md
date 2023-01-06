@@ -7,7 +7,7 @@
 # :sunglasses: Deployed at: https://filmy-buddy.netlify.app/
 
 # commands:
- 1.Download the file from repo and hit npm install in your cmd.
- 2.Then hit npm start in cmd and you are good to go.
+ 1. Download the file from repo and hit npm install in your cmd.
+ 2. Then hit npm start in cmd and you are good to go.
  
 ## :smile: Thanks for visiting this repo :smile:
