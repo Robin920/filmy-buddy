@@ -47,3 +47,11 @@
   border: #5A20CB 2px solid;
   box-shadow: #d99bff 0px 5px 15px;
 }
+
+@media only screen and (max-width: 768px){
+  .categories{
+    grid-template-columns: auto auto;
+    gap: 10px;
+    width: 70vw;
+  }
+}

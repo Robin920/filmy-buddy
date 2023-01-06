@@ -47,3 +47,12 @@
 .fa-star{
     color: #d99bff;
 }
+
+@media only screen and (max-width: 768px){
+    .card{
+        width: 35vw;
+    }
+    .card:hover{
+        width: 36vw;
+    }
+}
